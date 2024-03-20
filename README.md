@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript, PHP, HTML and CSS as languages<br>💼 I'm using Docker and Git<br>🌐 I'm learning React, Node.js and using Figma for front-end and prototyping</p>
+<p align="center">📚 I'm currently learning JavaScript, PHP, HTML and CSS as languages<br>💼 I'm using Docker and Git<br>🌐 I'm learning React, Node.js and using Figma for front-end and prototyping</p>
 
 ###
 
