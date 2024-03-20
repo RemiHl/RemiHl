@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Remi, i'm 30 years old I am passionate about new technologies and the web. I am currently training as a web developer and I plan to make it my career. I like to know how things work so I don't hesitate to be curious to find answers to my questions.</h2>
+<h2 align="center">My name is Remi, i'm 30 years old and I am passionate about new technologies and the web. I am currently training as a web developer and I plan to make it my career. I like to know how things work so I don't hesitate to be curious to find answers to my questions.</h2>
 
 ###
 
